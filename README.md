@@ -1,14 +1,12 @@
 ### Olá! Eu sou o Davi Macedo de Lima!
  
-![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davimacedo011&theme=dracula)
+ 
+![Paulo GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=davimacedo011&theme=dracula)
  
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulaoBDM&theme=dracula)
- 
-![Paulo GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaoBDM&theme=dracula)
- 
- 
-### Tecnologias que eu uso no meu dia
+### Tecnologias que eu uso
 <div style= "display: inline_block"><br/>
 <img align = "center" alt="java" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img align = "center" alt="html5" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
