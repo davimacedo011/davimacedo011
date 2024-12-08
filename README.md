@@ -1,6 +1,6 @@
 Olá! Eu sou o Davi Macedo, um desenvolvedor de soluções digitais!
 
-Atualmente estou cursando o Tecnólogo em Análise e Desenvolvimento de Sistemas no Centro Universitário Senac, em São Paulo. Durante minha formação, desenvolvi sólidos conhecimentos em programação, com ênfase em Java, além de habilidades em HTML, CSS e JavaScript, que me permitem atuar tanto no desenvolvimento de software backend quanto frontend.
+Atualmente estou cursando o Tecnólogo em Análise e Desenvolvimento de Sistemas no Centro Universitário Senac em São Paulo. Durante minha formação, desenvolvi sólidos conhecimentos em programação, com ênfase em Java, além de habilidades em HTML, CSS e JavaScript, que me permitem atuar tanto no desenvolvimento de software backend quanto frontend.
 
 Recentemente, também adquiri conhecimentos em Node.js e React, ampliando minha capacidade de desenvolver aplicações modernas e escaláveis, tanto no lado do servidor quanto no cliente.
 
