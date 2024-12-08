@@ -1,13 +1,14 @@
-👋 Olá! Eu sou o Davi Macedo, um desenvolvedor de soluções digitais! 💻✨
+Olá! Eu sou o Davi Macedo, um desenvolvedor de soluções digitais!
 
-🎯 Transformando ideias em código e inovação!
+Atualmente estou cursando o Tecnólogo em Análise e Desenvolvimento de Sistemas no Centro Universitário Senac, em São Paulo. Durante minha formação, desenvolvi sólidos conhecimentos em programação, com ênfase em Java, além de habilidades em HTML, CSS e JavaScript, que me permitem atuar tanto no desenvolvimento de software backend quanto frontend.
 
-🔍 Apaixonado por construir soluções eficientes, escaláveis e criativas, sou um entusiasta de tecnologia que não para de aprender. Meu objetivo? Levar seu projeto ao próximo nível com dedicação e qualidade.
- 
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davimacedo011&theme=dracula)
- 
-![Paulo GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=davimacedo011&theme=dracula)
+Recentemente, também adquiri conhecimentos em Node.js e React, ampliando minha capacidade de desenvolver aplicações modernas e escaláveis, tanto no lado do servidor quanto no cliente.
+
+Adquiri familiaridade com bancos de dados MySQL, onde aprendi a modelar, consultar e manipular dados. Além disso, possuo conhecimento em Excel, o que me permite realizar análises de dados e criar relatórios.
+
+Estou em busca de uma oportunidade de estágio para aplicar meu conhecimento, especialmente na área de desenvolvimento de software.
+
+Estou motivado a integrar-me à equipe e contribuir para o crescimento da empresa, utilizando meu conhecimento técnico e minha vontade de aprender para agregar valor aos projetos desenvolvidos.
  
  
 ### Tecnologias que eu uso
